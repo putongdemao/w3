@@ -20,7 +20,8 @@ export default {
         "h1",
         "slash",
         "transparent",
-        "hover"
+        "hover",
+        "echarts"
       ]
     };
   },

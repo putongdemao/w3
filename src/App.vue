@@ -9,6 +9,7 @@ body,
 #app {
   height: 100%;
   width: 100%;
+  
 }
 </style>
 <style src="./style/common.css"></style>

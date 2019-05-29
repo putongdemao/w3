@@ -50,6 +50,11 @@ export default new Router({
           name: 'hover',
           component: () => import("./views/Hover.vue")
         },
+        {
+          path: 'echarts',
+          name: 'echarts',
+          component: () => import("./views/Echarts.vue")
+        },
       ]
     }
   ]
